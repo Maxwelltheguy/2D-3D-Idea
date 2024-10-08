@@ -6,32 +6,65 @@ public class TwoDimensionalCharacterController : MonoBehaviour
 {
     [SerializeField] Rigidbody rb;
     [SerializeField] int jumpForce = 5;
-    [SerializeField] int moveSpeed = 3;
-    [SerializeField] int maxSpeed = 5;
-    [SerializeField]int leftMaxSpeed = -5;
-    int oppositeForce;
+    [SerializeField] int moveSpeed = 10;
+    bool jump;
 
-    void Start()
-    {
-        
-    }
     
 
     void Update()
     {
+        CheckForInput();
+    
+    }
+    
+
+    void FixedUpdate()
+    {
+        if (jump == true)
+        {
+            Jump();
+        }
+
+    }
+
+    void CheckForInput()
+    {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.AddForce(new Vector3(0,jumpForce,0),ForceMode.Impulse);
+            jump = true;
+            Jump();
         }
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            rb.AddForce(new Vector3(moveSpeed * -1,0,0),ForceMode.Acceleration);
+            MoveLeft();
         }
-        if(rb.velocity.x < leftMaxSpeed)
+
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            oppositeForce = (int)(leftMaxSpeed + rb.velocity.x * -1);
-            rb.AddForce(new Vector3(oppositeForce,0,0),ForceMode.Acceleration);
+            MoveRight();
         }
-    Debug.Log(rb.velocity.x);  
+        
     }
+
+    void Jump()
+    {
+        if (rb.velocity.y == 0)
+        {
+            rb.velocity = new Vector3(rb.velocity.x, 0, 0);
+            rb.AddForce(new Vector3(0, jumpForce, 0), ForceMode.Impulse);
+        }
+        jump = false;
+
+    }
+
+    void MoveLeft()
+    {
+        transform.Translate(moveSpeed * -1 * Time.deltaTime, 0, 0);
+    }
+    void MoveRight()
+    {
+        transform.Translate(moveSpeed * Time.deltaTime, 0, 0);
+    }
+
 }
+
