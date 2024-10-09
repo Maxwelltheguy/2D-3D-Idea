@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Two Dimensional Character Controller.cs" />
     <Compile Include="Assets\Scripts\DimensionController.cs" />
+    <Compile Include="Assets\Scripts\Level End.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
   </ItemGroup>
   <ItemGroup>
