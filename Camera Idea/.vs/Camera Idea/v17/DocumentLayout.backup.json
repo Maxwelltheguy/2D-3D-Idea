@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\button events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\desktop\\repos\\2d-3d-idea\\camera idea\\assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\level end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\dimensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dimensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\dimensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dimensioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Button Events.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\Button Events.cs",
               "RelativeToolTip": "Assets\\Scripts\\Button Events.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T14:44:53.423Z",
               "EditorCaption": ""
@@ -53,13 +53,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level End.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\Level End.cs",
               "RelativeToolTip": "Assets\\Scripts\\Level End.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T15:34:47.279Z"
+              "WhenOpened": "2024-10-09T15:34:47.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Two Dimensional Character Controller.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\Two Dimensional Character Controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Two Dimensional Character Controller.cs",
@@ -67,12 +68,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Two Dimensional Character Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T14:02:17.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T14:02:17.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DimensionController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\DimensionController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DimensionController.cs",
@@ -84,15 +84,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FirstPersonController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
               "RelativeToolTip": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
-              "ViewState": "AgIAABMCAAAAAAAAAAAiwOICAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAD4v5sAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:56:28.449Z"
+              "WhenOpened": "2024-09-18T14:56:28.449Z",
+              "EditorCaption": ""
             }
           ]
         }
