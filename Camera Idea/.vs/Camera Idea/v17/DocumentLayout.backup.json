@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Button Events.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\Button Events.cs",
               "RelativeToolTip": "Assets\\Scripts\\Button Events.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T14:44:53.423Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Level End.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T15:34:47.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T15:34:47.279Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAD4v5sAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:56:28.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T14:56:28.449Z"
             }
           ]
         }

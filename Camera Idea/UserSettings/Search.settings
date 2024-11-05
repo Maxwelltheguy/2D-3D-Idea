@@ -10,7 +10,7 @@ showPackageIndexes = false
 showStatusBar = false
 scopes = {
 	"OpenInspectorPreview.66F56946" = "0"
-	"currentGroup.66F56946" = "all"
+	"currentGroup.66F56946" = "scene"
 }
 providers = {
 	asset = {
