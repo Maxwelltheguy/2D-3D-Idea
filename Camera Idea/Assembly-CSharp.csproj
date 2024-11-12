@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Level End.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
     <Compile Include="Assets\Scripts\CubeRotator.cs" />
+    <Compile Include="Assets\Scripts\EnablePartsOnButtonPress.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TheSimpleWall.unity
+    guid: 5805fa937c3e5bc49ac3960b4d93ad59
+  - enabled: 1
+    path: Assets/Scenes/PlatformingLevel1.unity
+    guid: 1cd53b57e9f0eb640868affe22b5d6ea
   m_configObjects: {}

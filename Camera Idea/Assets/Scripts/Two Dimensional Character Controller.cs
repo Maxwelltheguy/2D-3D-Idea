@@ -9,15 +9,16 @@ public class TwoDimensionalCharacterController : MonoBehaviour
     [SerializeField] int moveSpeed = 5;
     [SerializeField] int runSpeed = 10;
     bool isRunning = false;
-    bool jump;
     bool isGrounded;
 
     
 
     void Update()
     {
-        CheckForInput();
+        CheckForJump();
         CheckIfGrounded();
+        CheckForInput();
+        
     }
     
 
@@ -25,11 +26,7 @@ public class TwoDimensionalCharacterController : MonoBehaviour
 
     void CheckForInput()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            jump = true;
-            Jump();
-        }
+        
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
             MoveLeft();
@@ -48,24 +45,26 @@ public class TwoDimensionalCharacterController : MonoBehaviour
         }
     }
 
-    void Jump()
+    void CheckForJump()
     {
-        if (isGrounded == true)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (isRunning == false)
+            if (isGrounded == true)
             {
-                rb.velocity = new Vector3(rb.velocity.x, 0, 0);
-                rb.AddForce(new Vector3(0, jumpForce, 0), ForceMode.Impulse);
-            }
-            else
-            {
-                rb.velocity = new Vector3(rb.velocity.x, 0, 0);
-                rb.AddForce(new Vector3(0, jumpForce + 2, 0), ForceMode.Impulse);
-            }
-            
-        }
-        jump = false;
+                if (isRunning == false)
+                {
+                    rb.velocity = new Vector3(rb.velocity.x, 0, 0);
+                    rb.AddForce(new Vector3(0, jumpForce, 0), ForceMode.Impulse);
+                }
+                else
+                {
+                    rb.velocity = new Vector3(rb.velocity.x, 0, 0);
+                    rb.AddForce(new Vector3(0, jumpForce + 2, 0), ForceMode.Impulse);
+                }
 
+            }
+        }
+        
     }
 
     void MoveLeft()
