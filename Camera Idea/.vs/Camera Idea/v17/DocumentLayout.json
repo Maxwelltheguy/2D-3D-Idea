@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\desktop\\repos\\2d-3d-idea\\camera idea\\assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\destroyonbuttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyonbuttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\two dimensional character controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8577ED7-77AF-5131-7055-D282F22CA5AE}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\assets\\scripts\\level end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,19 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DestroyOnButtonPress.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\DestroyOnButtonPress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnButtonPress.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\DestroyOnButtonPress.cs",
               "RelativeToolTip": "Assets\\Scripts\\DestroyOnButtonPress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:52:16.615Z"
+              "WhenOpened": "2024-11-05T15:52:16.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Two Dimensional Character Controller.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\2D-3D-Idea\\Camera Idea\\Assets\\Scripts\\Two Dimensional Character Controller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Two Dimensional Character Controller.cs",
@@ -82,8 +83,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Two Dimensional Character Controller.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T14:02:17.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T14:02:17.522Z"
             },
             {
               "$type": "Document",
